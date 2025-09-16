@@ -6,3 +6,5 @@ bg-color: #1c1c1c;
 second-bg-color: #171C1A8C;
 
 background-image: linear-gradient(180deg, #171C1A8C 50%, #1c1c1c 96%)
+
+section-bg-color:#171C1A;
